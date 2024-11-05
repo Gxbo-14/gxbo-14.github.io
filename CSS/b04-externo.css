@@ -1,0 +1,50 @@
+body {
+  font-family: Arial;
+  background-color: #1e6262;
+}
+
+
+#zona-encabezado {
+  width: 85%;
+  color: black;
+  background-color: #229799;
+  float: right;
+}
+
+#zona-imagenes {
+  background-color: #2d767f;
+  text-align: center;
+}
+
+#zona-cuerpo {
+  width: 85%;
+  color: black;
+  background-color: #a9eee6;
+}
+
+#zona-final {
+  width: 85%;
+  color: black;
+  background-color: #385170;
+  font-size: 12pt;
+}
+
+h1 {
+  font-size: 30pt;
+}
+
+img.zona-img {
+border-radius: 2%;
+width: 200px;
+height: 150px;
+}
+img.zona-cuerpo {
+  border-radius: 2%;
+  width: 157px;
+  height: 117px;
+}
+img.zona-cuerpo2 {
+  border-radius: 2%;
+  width: 300px;
+  height: 200px;
+}
